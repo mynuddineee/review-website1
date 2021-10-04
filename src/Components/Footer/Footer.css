@@ -1,0 +1,17 @@
+.logo{
+    height: 95px;
+    width: 95px;
+}
+
+.footer-container{
+    display: flex;
+    text-align: center;
+    
+}
+
+li:hover{
+    background-color:blue;
+    color: white;
+    
+    
+}

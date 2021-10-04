@@ -1,0 +1,10 @@
+.logo{
+    height: 95px;
+    width: 95px;
+}
+
+.logo-container{
+    display: flex;
+    text-align: center;
+    background-color: antiquewhite;
+}
